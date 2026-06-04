@@ -1,29 +1,186 @@
 <h1 align="center">Hi 👋, I'm Rewant Raj</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif">
+<h3 align="center">
+Machine Learning Engineer & Data Engineer in Progress
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rewant581&label=Profile%20views&color=0e75b6&style=flat" alt="rewant581" /> </p>
-
-- 📫 How to reach me **rewantraj1710@gmail.com**
-
-- ⚡ Fun fact **I am funny😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rewantraj24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rewantraj24" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rewant raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rewant raj" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/24_rewant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="24_rewant" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rewantraj1710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rewantraj1710" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@rewantraj1710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rewantraj1710" height="30" width="40" /></a>
+<p align="center">
+Quality Assurance Analyst • Python • SQL • Machine Learning • Data Engineering • Cloud Technologies
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+Data & AI enthusiast with a background in Quality Assurance and a growing focus on Machine Learning and Data Engineering.
+I enjoy building data pipelines, training ML models, automating workflows, and solving real-world problems using data.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rewant581&show_icons=true&locale=en&layout=compact" alt="rewant581" /></p>
+<img align="right" alt="Data Engineering" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lqZ3FmMnM4ZXlhcWF5NmQ0aGNmN2Q4M2M5N3BybTViMWE5MDRvNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rewant581&show_icons=true&locale=en" alt="rewant581" /></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rewant581&label=Profile%20Views&color=0e75b6&style=flat" alt="rewant581" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rewant581&" alt="rewant581" /></p>
- 
+---
+
+## 🚀 About Me
+
+- 💼 Currently working as a **Quality Assurance Analyst**
+- 🤖 Transitioning into **Machine Learning Engineering** and **Data Engineering**
+- 📊 Passionate about building intelligent systems and scalable data solutions
+- ⚡ Developing projects involving Machine Learning, Data Analytics, and ETL Pipelines
+- 🧠 Exploring Cloud Computing, Big Data Technologies, and MLOps
+- 🎯 Open to opportunities in:
+  - Machine Learning Engineering
+  - Data Engineering
+  - Analytics Engineering
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,sql,javascript" />
+</p>
+
+### Data Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+- ETL Development
+- Data Modeling
+- Data Warehousing
+- Data Validation
+- Data Quality Engineering
+
+### Machine Learning & Analytics
+
+- Pandas
+- NumPy
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+- XGBoost
+- Feature Engineering
+- Model Evaluation
+- Data Analysis
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
+</p>
+
+### Visualization
+
+- Power BI
+- Tableau
+- Matplotlib
+- Seaborn
+
+---
+
+## 🎯 Areas of Interest
+
+### 🤖 Machine Learning
+
+- Predictive Modeling
+- Deep Learning
+- Natural Language Processing (NLP)
+- Recommendation Systems
+- Model Deployment
+
+### ⚙️ Data Engineering
+
+- ETL Pipelines
+- Data Warehousing
+- Data Modeling
+- Apache Spark
+- Apache Airflow
+- Data Quality Automation
+
+### ☁️ Cloud & MLOps
+
+- AWS
+- Docker
+- CI/CD
+- ML Lifecycle Management
+- Data Infrastructure
+
+---
+
+## 🚀 2026 Goals
+
+- Build production-ready Machine Learning applications
+- Master Apache Spark and Apache Airflow
+- Learn advanced MLOps practices
+- Strengthen Cloud Data Engineering skills
+- Contribute to Open Source Data & AI projects
+- Secure a Machine Learning Engineer or Data Engineer role
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/rewantraj24" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://www.leetcode.com/rewantraj1710" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+</a>
+
+<a href="https://www.hackerrank.com/24_rewant" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+</a>
+
+<a href="https://www.hackerearth.com/@rewantraj1710" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hackerearth" height="30" width="40" />
+</a>
+</p>
+
+📧 **Email:** **rewantraj1710@gmail.com**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rewant581&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rewant581&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewant581&layout=compact&theme=tokyonight" alt="languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rewant581&theme=tokyonight&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rewant581&theme=tokyo-night" />
+</p>
+
+---
+
+## 💡 Philosophy
+
+> From Quality Assurance to Data Intelligence — Engineering Systems That Learn, Scale, and Create Value.
+
+---
+⭐ Always learning, building, and exploring the intersection of Data Engineering, Machine Learning, and AI.
