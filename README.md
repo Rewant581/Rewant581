@@ -5,12 +5,11 @@ Machine Learning Engineer & Data Engineer in Progress
 </h3>
 
 <p align="center">
-Quality Assurance Analyst • Python • SQL • Machine Learning • Data Engineering • Cloud Technologies
+Quality Assurance Analyst • Python • SQL • Machine Learning • Data Engineering • AWS • MLOps
 </p>
 
 <p align="center">
-Data & AI enthusiast with a background in Quality Assurance and a growing focus on Machine Learning and Data Engineering.
-I enjoy building data pipelines, training ML models, automating workflows, and solving real-world problems using data.
+Passionate about building data pipelines, machine learning systems, and cloud-native solutions that solve real-world problems.
 </p>
 
 <img align="right" alt="Data Engineering" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lqZ3FmMnM4ZXlhcWF5NmQ0aGNmN2Q4M2M5N3BybTViMWE5MDRvNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif">
@@ -25,37 +24,60 @@ I enjoy building data pipelines, training ML models, automating workflows, and s
 
 - 💼 Currently working as a **Quality Assurance Analyst**
 - 🤖 Transitioning into **Machine Learning Engineering** and **Data Engineering**
-- 📊 Passionate about building intelligent systems and scalable data solutions
-- ⚡ Developing projects involving Machine Learning, Data Analytics, and ETL Pipelines
-- 🧠 Exploring Cloud Computing, Big Data Technologies, and MLOps
+- 📊 Passionate about leveraging data to build intelligent solutions
+- ⚡ Building projects involving Machine Learning, Data Analytics, and ETL Pipelines
+- ☁️ Exploring Cloud Computing, Big Data Technologies, and MLOps
 - 🎯 Open to opportunities in:
-  - Machine Learning Engineering
-  - Data Engineering
-  - Analytics Engineering
+  - Machine Learning Engineer
+  - Data Engineer
+  - Analytics Engineer
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 Profile Snapshot
 
-### Programming Languages
+| Category | Details |
+|-----------|-----------|
+| 💼 Current Role | Quality Assurance Analyst |
+| 🎯 Target Roles | Machine Learning Engineer, Data Engineer |
+| 💻 Languages | Python, SQL, Java |
+| 📊 Data Stack | Pandas, NumPy, PostgreSQL, MySQL |
+| 🤖 ML Stack | Scikit-Learn, TensorFlow, PyTorch |
+| ☁️ Cloud | AWS |
+| ⚙️ Tools | Docker, Git, Linux |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,sql,javascript" />
+---
+
+## 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
-### Data Engineering
+- SQL (PostgreSQL, MySQL)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+---
+
+## ⚙️ Data Engineering
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,aws,linux" />
 </p>
+
+### Core Skills
 
 - ETL Development
+- Data Pipeline Development
 - Data Modeling
 - Data Warehousing
 - Data Validation
 - Data Quality Engineering
 
-### Machine Learning & Analytics
+---
+
+## 🤖 Machine Learning
+
+### Libraries & Frameworks
 
 - Pandas
 - NumPy
@@ -63,17 +85,32 @@ I enjoy building data pipelines, training ML models, automating workflows, and s
 - TensorFlow
 - PyTorch
 - XGBoost
+
+### Areas of Interest
+
+- Predictive Modeling
 - Feature Engineering
 - Model Evaluation
-- Data Analysis
+- Natural Language Processing (NLP)
+- Deep Learning
+- Recommendation Systems
 
-### Cloud & DevOps
+---
 
-<p>
+## ☁️ Cloud & DevOps
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
 </p>
 
-### Visualization
+- CI/CD Fundamentals
+- Containerization
+- Cloud Infrastructure
+- MLOps Fundamentals
+
+---
+
+## 📊 Data Visualization
 
 - Power BI
 - Tableau
@@ -82,36 +119,45 @@ I enjoy building data pipelines, training ML models, automating workflows, and s
 
 ---
 
-## 🎯 Areas of Interest
+## 🚀 Featured Projects
 
 ### 🤖 Machine Learning
 
-- Predictive Modeling
-- Deep Learning
-- Natural Language Processing (NLP)
-- Recommendation Systems
-- Model Deployment
+- Customer Churn Prediction
+- House Price Prediction
+- Sentiment Analysis
+- Recommendation System
 
 ### ⚙️ Data Engineering
 
-- ETL Pipelines
-- Data Warehousing
-- Data Modeling
-- Apache Spark
-- Apache Airflow
-- Data Quality Automation
+- ETL Pipeline using Python
+- Apache Airflow Workflow Automation
+- SQL Analytics Project
+- Data Warehouse Design
 
-### ☁️ Cloud & MLOps
+### 🧪 Quality Engineering
 
-- AWS
-- Docker
-- CI/CD
-- ML Lifecycle Management
-- Data Infrastructure
+- Test Automation Framework
+- API Testing Suite
+- Data Validation Automation
+
+> Replace these with links to your actual repositories.
 
 ---
 
-## 🚀 2026 Goals
+## 📚 Currently Learning
+
+- Apache Spark
+- Apache Airflow
+- AWS Data Services
+- MLOps
+- Deep Learning
+- Vector Databases
+- Generative AI Applications
+
+---
+
+## 🎯 2026 Goals
 
 - Build production-ready Machine Learning applications
 - Master Apache Spark and Apache Airflow
@@ -122,7 +168,14 @@ I enjoy building data pipelines, training ML models, automating workflows, and s
 
 ---
 
-## 📫 Connect With Me
+## 🏅 Certifications
+
+- Add your certifications here
+- Add your ongoing certifications here
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/rewantraj24" target="blank">
@@ -144,43 +197,16 @@ I enjoy building data pipelines, training ML models, automating workflows, and s
 
 📧 **Email:** **rewantraj1710@gmail.com**
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rewant581&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rewant581&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewant581&layout=compact&theme=tokyonight" alt="languages" />
-</p>
+💼 **LinkedIn:** <a href="https://linkedin.com/in/rewantraj24">linkedin.com/in/rewantraj24</a>
 
 ---
 
-## 🏆 GitHub Trophies
+## 💡 Mission
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rewant581&theme=tokyonight&margin-w=15&margin-h=15" />
-</p>
+> Building scalable data systems and intelligent applications that transform raw data into measurable business impact.
 
 ---
 
-## 📈 Contribution Graph
+### ⚡ Fun Fact
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rewant581&theme=tokyo-night" />
-</p>
-
----
-
-## 💡 Philosophy
-
-> From Quality Assurance to Data Intelligence — Engineering Systems That Learn, Scale, and Create Value.
-
----
-⭐ Always learning, building, and exploring the intersection of Data Engineering, Machine Learning, and AI.
+I enjoy solving data problems, automating workflows, and turning complex datasets into actionable insights.
