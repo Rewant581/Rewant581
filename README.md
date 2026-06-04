@@ -40,7 +40,7 @@ Passionate about building data pipelines, machine learning systems, and cloud-na
 |-----------|-----------|
 | 💼 Current Role | Quality Assurance Analyst |
 | 🎯 Target Roles | Machine Learning Engineer, Data Engineer |
-| 💻 Languages | Python, SQL, Java |
+| 💻 Languages | Python |
 | 📊 Data Stack | Pandas, NumPy, PostgreSQL, MySQL |
 | 🤖 ML Stack | Scikit-Learn, TensorFlow, PyTorch |
 | ☁️ Cloud | Google Cloud (GCP) |
