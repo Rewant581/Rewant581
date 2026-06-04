@@ -43,7 +43,7 @@ Passionate about building data pipelines, machine learning systems, and cloud-na
 | 💻 Languages | Python, SQL, Java |
 | 📊 Data Stack | Pandas, NumPy, PostgreSQL, MySQL |
 | 🤖 ML Stack | Scikit-Learn, TensorFlow, PyTorch |
-| ☁️ Cloud | AWS |
+| ☁️ Cloud | Google Cloud (GCP) |
 | ⚙️ Tools | Docker, Git, Linux |
 
 ---
